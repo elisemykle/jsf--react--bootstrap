@@ -6,7 +6,7 @@ export default function App() {
             <nav>
                 <a href="/">Home</a>
                 <a href="/section1/">Section 1</a>
-                <a href="/section2/">Page 2</a>
+                <a href="/section2/">Section 2</a>
             </nav>
         </div>
     );
