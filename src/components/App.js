@@ -10,6 +10,11 @@ export default function App() {
                 <Nav.Link href="/section1/">Section 1</Nav.Link>
                 <Nav.Link href="/section2/">Section 2</Nav.Link>
             </Nav>
+
+            <NavBar bg="primary">
+            <bg="primary">
+            <bg="dark">
+            </Navbar>
         </div>
     );
 }
